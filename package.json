@@ -1,7 +1,10 @@
+  
 {
-  "name": "OSSo bot",
+  "name": "OSSo-chatbot",
   "version": "1.0.0",
-  "description": "Development for OSSo bot for the OSS.",
+  "engines":{
+    "node": "12.16.3"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,10 +19,9 @@
     "dotenv": "^8.2.0",
     "ffmpeg": "0.0.4",
     "opusscript": "0.0.7",
-    "ytdl-core": "^2.1.4"
+    "ytdl-core": "^2.1.5"
   },
-  "engines": {
-  "node": "12.18.1",
-  "npm": "6.14.5"
-}
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
 }
