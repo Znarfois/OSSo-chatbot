@@ -9,13 +9,13 @@
   "author": "Franz Taborlupa",
   "license": "ISC",
   "dependencies": {
+    "cron": "^1.8.2",
     "@discordjs/opus": "^0.3.2",
     "cron": "^1.8.2",
     "discord.js": "^12.2.0",
     "discord.js-commando": "^0.10.0",
     "dotenv": "^8.2.0",
     "ffmpeg": "0.0.4",
-    "node.js": "0.0.1-security",
     "opusscript": "0.0.7",
     "ytdl-core": "^2.1.4"
   }
