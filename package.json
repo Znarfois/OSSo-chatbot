@@ -9,7 +9,6 @@
   "author": "Franz Taborlupa",
   "license": "ISC",
   "dependencies": {
-    "cron": "^1.8.2",
     "@discordjs/opus": "^0.3.2",
     "cron": "^1.8.2",
     "discord.js": "^12.2.0",
