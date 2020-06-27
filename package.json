@@ -17,5 +17,9 @@
     "ffmpeg": "0.0.4",
     "opusscript": "0.0.7",
     "ytdl-core": "^2.1.4"
-  }
+  },
+  "engines": {
+  "node": "12.18.1",
+  "npm": "6.14.5"
+}
 }
